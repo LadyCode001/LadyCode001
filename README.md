@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LadyCode001
+- 👋 Hi, I’m Analyst Connie
 - 👀 I’m interested in helping you solve all your data analysis problems
-- 🌱 I’m currently learning Data Analysis With Python
+- 🌱 I’m currently learning Data Analysis With MySQL, Excel, Power Bi and Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please mail me for enquires constanceorji32@gmail.com
 <!---
